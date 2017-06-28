@@ -2,4 +2,6 @@
   lucky-word : Hi All NA
   my-word : My Word in NA
   eureka.client.serviceUrl.defaultZone : http://localhost:8010/eureka/
-  preamble : The lucky word is
+  wordConfig:
+    preamble : The lucky word is
+    lucky-word-01 : Hi All NA 01
