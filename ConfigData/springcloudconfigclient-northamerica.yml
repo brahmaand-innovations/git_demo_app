@@ -4,4 +4,4 @@
   eureka.client.serviceUrl.defaultZone : http://localhost:8010/eureka/
   wordConfig:
     preamble : The lucky word is
-    luckyWord01 : Hi All NA 01-02-03
+    luckyWord01 : Hi All NA 01-02-03-04
